@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "METRN (Meteorin) in Intervertebral Disc Degeneration: transcriptomic analysis code and processed data"
+message: "If you use this software, please cite the accompanying manuscript and this repository."
+authors:
+  - name: "METRN IVDD Analysis Consortium"
+repository-code: "https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis"
+license: MIT
+keywords:
+  - METRN
+  - Meteorin
+  - IVDD
+  - AIS
+  - transcriptomics
+  - meta-analysis

@@ -1,0 +1,32 @@
+{
+  "title": "METRN (Meteorin) in Intervertebral Disc Degeneration: reproducible transcriptomic analysis code and processed data",
+  "upload_type": "software",
+  "description": "R and Python scripts plus processed data for the exploratory public transcriptomic analysis of METRN (Meteorin) in intervertebral disc degeneration (IVDD), with translational relevance to adolescent idiopathic scoliosis (AIS). Companion repository to the BMC Musculoskeletal Disorders manuscript.",
+  "creators": [
+    {
+      "name": "METRN IVDD Analysis Consortium",
+      "affiliation": "See manuscript corresponding author"
+    }
+  ],
+  "keywords": [
+    "METRN",
+    "Meteorin",
+    "intervertebral disc degeneration",
+    "IVDD",
+    "adolescent idiopathic scoliosis",
+    "AIS",
+    "transcriptomics",
+    "meta-analysis",
+    "GEO"
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Edit the 'creators' field with the manuscript authors before publishing a release to mint an accurate DOI."
+}

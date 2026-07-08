@@ -1,0 +1,3 @@
+Dataset,log2FC,SE,n_case,n_ctrl,mean_case,mean_ctrl,direction
+GSE124272,-0.2463,0.1503,8,8,9.278,9.524,down
+GSE150408,0.0984,0.1211,17,17,9.457,9.359,up
