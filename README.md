@@ -60,9 +60,9 @@ Code is released under the **MIT Licence**. Input data remain under the licences
 
 ## Citation
 
-See `CITATION.cff`. A permanent archived version with a DOI is available via Zenodo
-(see `.zenodo.json`; the DOI is minted automatically when a GitHub release is published and
-Zenodo GitHub integration is enabled).
+See `CITATION.cff`. A permanent archived version with a DOI is available via Zenodo:
+**10.5281/zenodo.21261996** (https://doi.org/10.5281/zenodo.21261996).
+This DOI was minted from GitHub release v1.0.1 via the Zenodo GitHub integration.
 
 ## Competing interests / Funding
 
@@ -71,5 +71,6 @@ funding was received for this analysis.
 
 ## Data / Code availability
 
-Processed data and analysis scripts are available in this repository. A permanent archived
-snapshot with a Zenodo DOI is provided upon publication (see `.zenodo.json`).
+Processed data and analysis scripts are available in this repository (release v1.0.0) and
+permanently archived on Zenodo (DOI: **10.5281/zenodo.21261996**,
+https://doi.org/10.5281/zenodo.21261996).
