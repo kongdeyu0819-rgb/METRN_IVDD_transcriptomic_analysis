@@ -32,12 +32,12 @@ All primary transcriptomic data are publicly available from GEO:
 - GSE150408 (peripheral blood, sciatica/IVDD vs. control)
 - GSE23130 (annulus fibrosus tissue, degenerative vs. non-degenerative)
 
-Processed results and analysis code are archived in this repository and on Zenodo (concept DOI: **10.5281/zenodo.2126196**).
+Processed results and analysis code are archived in this repository and on Zenodo (concept DOI: **10.5281/zenodo.21261995**).
 
 ## How to cite
 
-> Dong J, Guo J, Zhang P, Wang Y, Yu H, Zhang L, Zhu W, Kong D. METRN in Intervertebral Disc Degeneration: Integrated Public Transcriptomic Evidence and Translational Relevance to Adolescent Idiopathic Scoliosis. *BMC Musculoskeletal Disorders* (submitted). Code & data: https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis (v2.0.2); Zenodo DOI: 10.5281/zenodo.2126196.
+> Dong J, Guo J, Zhang P, Wang Y, Yu H, Zhang L, Zhu W, Kong D. METRN in Intervertebral Disc Degeneration: Integrated Public Transcriptomic Evidence and Translational Relevance to Adolescent Idiopathic Scoliosis. *BMC Musculoskeletal Disorders* (submitted). Code & data: https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis (v2.0.2); Zenodo DOI: 10.5281/zenodo.21261995.
 
 ## Notes for maintainers
 
-- A new GitHub Release triggers the Zenodo GitHub integration to mint a **new Zenodo version** with the corrected author list. After publishing, verify the Zenodo record (https://zenodo.org/record/21261996) shows the 8 named creators and update the manuscript's DOI reference to the concept DOI (10.5281/zenodo.2126196) so it always resolves to the latest version.
+- A new GitHub Release triggers the Zenodo GitHub integration to mint a **new Zenodo version** with the corrected author list. After publishing, verify the Zenodo record (https://zenodo.org/record/21261996) shows the 8 named creators and update the manuscript's DOI reference to the concept DOI (10.5281/zenodo.21261995) so it always resolves to the latest version.
