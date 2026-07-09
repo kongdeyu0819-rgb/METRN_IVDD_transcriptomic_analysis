@@ -5,35 +5,35 @@
   "creators": [
     {
       "name": "Dong, Jige",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences"
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences"
     },
     {
       "name": "Guo, Jiangzhou",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences"
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences"
     },
     {
       "name": "Zhang, Ping",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences"
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences"
     },
     {
       "name": "Wang, Yusheng",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences"
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences"
     },
     {
       "name": "Yu, Hongxia",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences"
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences"
     },
     {
       "name": "Zhang, Li",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences"
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences"
     },
     {
       "name": "Zhu, Wenjing",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences"
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences"
     },
     {
       "name": "Kong, Deyu",
-      "affiliation": "Wangjing Hospital, China Academy of Chinese Medical Sciences",
+      "affiliation": "Wangjing Hospital of China Academy of Chinese Medical Sciences",
       "orcid": "0009-0002-3621-5719"
     }
   ],
@@ -57,5 +57,5 @@
       "resource_type": "software"
     }
   ],
-  "notes": "Creators set from the manuscript author list; a new GitHub release will propagate updated metadata to the Zenodo record (DOI: 10.5281/zenodo.21261996)."
+  "notes": "Creators set from the manuscript author list; a new GitHub release will propagate updated metadata to the Zenodo concept DOI (10.5281/zenodo.2126196)."
 }

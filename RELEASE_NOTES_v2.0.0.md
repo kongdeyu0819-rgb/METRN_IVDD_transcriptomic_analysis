@@ -4,7 +4,7 @@ This release accompanies the manuscript **"METRN in Intervertebral Disc Degenera
 
 ## What changed since v1.x
 
-- **Author list corrected to the true manuscript authorship** (8 authors, Wangjing Hospital, China Academy of Chinese Medical Sciences). This aligns the repository with the published single-cell anchor (Zhang P et al., *J Cell Physiol* 2025;240:e31506 — Ref. [16]) and the plasma-biomarker patent (ZL202310215676.1 — Ref. [17]).
+- **Author list corrected to the true manuscript authorship** (8 authors, Wangjing Hospital of China Academy of Chinese Medical Sciences). This aligns the repository with the published single-cell anchor (Zhang P et al., *J Cell Physiol* 2025;240:e31506 — Ref. [16]) and the plasma-biomarker patent (ZL202310215676.1 — Ref. [17]).
 - **Competing Interests added**: co-author P.Z. (Ping Zhang, Department of Pathology) is a named inventor on Chinese patent ZL202310215676.1 (plasma METRN-based IVDD diagnostic biomarker). All other authors declare no competing interests.
 - **Funding statement added**:
   - China Academy of Chinese Medical Sciences Scientific and Technological Innovation Project — major grant **CI2026A02025**

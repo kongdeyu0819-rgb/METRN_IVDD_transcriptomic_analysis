@@ -5,6 +5,19 @@ Public companion code repository for the manuscript:
 **"METRN (Meteorin) in Intervertebral Disc Degeneration: an exploratory public transcriptomic analysis with translational relevance to adolescent idiopathic scoliosis (AIS)"**
 (target journal: *BMC Musculoskeletal Disorders*)
 
+## Authors
+
+- Jige Dong — Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences
+- Jiangzhou Guo — Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences
+- Ping Zhang — Department of Pathology, Wangjing Hospital of China Academy of Chinese Medical Sciences
+- Yusheng Wang — Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences
+- Hongxia Yu — Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences
+- Li Zhang — Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences
+- Wenjing Zhu — Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences
+- Deyu Kong (corresponding) — Rehabilitation Division, Wangjing Hospital of China Academy of Chinese Medical Sciences; ORCID: 0009-0002-3621-5719
+
+All authors are affiliated with Wangjing Hospital of China Academy of Chinese Medical Sciences, Beijing, China.
+
 > This is a **hypothesis-generating, exploratory re-analysis** of publicly available transcriptomic datasets. It is **not** a definitive mechanistic proof. The translational AIS extension is a conceptual framework built on the IVDD evidence base and does not include AIS-specific transcriptomic data.
 
 ## Data sources
@@ -61,8 +74,8 @@ Code is released under the **MIT Licence**. Input data remain under the licences
 ## Citation
 
 See `CITATION.cff`. A permanent archived version with a DOI is available via Zenodo:
-**10.5281/zenodo.21261996** (https://doi.org/10.5281/zenodo.21261996).
-This DOI was minted from GitHub release v1.0.1 via the Zenodo GitHub integration.
+**10.5281/zenodo.2126196** (https://doi.org/10.5281/zenodo.2126196).
+The concept DOI resolves to the latest version minted from GitHub release v2.0.0 via the Zenodo GitHub integration.
 
 ## Competing interests / Funding
 
@@ -70,6 +83,6 @@ See the accompanying manuscript. Competing interests: co-author Ping Zhang is a 
 
 ## Data / Code availability
 
-Processed data and analysis scripts are available in this repository (release v1.0.0) and
-permanently archived on Zenodo (DOI: **10.5281/zenodo.21261996**,
-https://doi.org/10.5281/zenodo.21261996).
+Processed data and analysis scripts are available in this repository (release v2.0.0) and
+permanently archived on Zenodo (DOI: **10.5281/zenodo.2126196**,
+https://doi.org/10.5281/zenodo.2126196).
