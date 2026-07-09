@@ -10,6 +10,7 @@ authors:
   - name: "Li Zhang"
   - name: "Wenjing Zhu"
   - name: "Deyu Kong"
+    orcid: "https://orcid.org/0009-0002-3621-5719"
 repository-code: "https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis"
 license: MIT
 keywords:
