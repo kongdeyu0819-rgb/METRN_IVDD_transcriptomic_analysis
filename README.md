@@ -75,7 +75,7 @@ Code is released under the **MIT Licence**. Input data remain under the licences
 
 See `CITATION.cff`. A permanent archived version with a DOI is available via Zenodo:
 **10.5281/zenodo.2126196** (https://doi.org/10.5281/zenodo.2126196).
-The concept DOI resolves to the latest version minted from GitHub release v2.0.0 via the Zenodo GitHub integration.
+The concept DOI resolves to the latest version minted from GitHub release v2.0.1 via the Zenodo GitHub integration.
 
 ## Competing interests / Funding
 
@@ -83,6 +83,6 @@ See the accompanying manuscript. Competing interests: co-author Ping Zhang is a 
 
 ## Data / Code availability
 
-Processed data and analysis scripts are available in this repository (release v2.0.0) and
+Processed data and analysis scripts are available in this repository (release v2.0.1) and
 permanently archived on Zenodo (DOI: **10.5281/zenodo.2126196**,
 https://doi.org/10.5281/zenodo.2126196).
