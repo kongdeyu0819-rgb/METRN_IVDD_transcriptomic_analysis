@@ -2,7 +2,14 @@ cff-version: 1.2.0
 title: "METRN (Meteorin) in Intervertebral Disc Degeneration: transcriptomic analysis code and processed data"
 message: "If you use this software, please cite the accompanying manuscript and this repository."
 authors:
-  - name: "METRN IVDD Analysis Consortium"
+  - name: "Jige Dong"
+  - name: "Jiangzhou Guo"
+  - name: "Ping Zhang"
+  - name: "Yusheng Wang"
+  - name: "Hongxia Yu"
+  - name: "Li Zhang"
+  - name: "Wenjing Zhu"
+  - name: "Deyu Kong"
 repository-code: "https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis"
 license: MIT
 keywords:

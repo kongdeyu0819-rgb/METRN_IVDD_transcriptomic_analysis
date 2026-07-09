@@ -66,8 +66,7 @@ This DOI was minted from GitHub release v1.0.1 via the Zenodo GitHub integration
 
 ## Competing interests / Funding
 
-See the accompanying manuscript. The authors declare no competing interests; no specific
-funding was received for this analysis.
+See the accompanying manuscript. Competing interests: co-author Ping Zhang is a named inventor on Chinese patent ZL202310215676.1 (plasma METRN biomarker for IVDD). Funding: supported by the Science and Technology Innovation Project of China Academy of Chinese Medical Sciences (CI2026A02025) and the Wangjing Hospital High-Level TCM Hospital Construction Project — Scientific Research Cultivation Team Project (WJYY-PYTD-2025-09).
 
 ## Data / Code availability
 
