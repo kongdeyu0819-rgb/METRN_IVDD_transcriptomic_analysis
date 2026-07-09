@@ -1,4 +1,4 @@
-# Release v2.0.0 — METRN in IVDD: independent transcriptomic validation & mechanistic extension
+# Release v2.0.1 — METRN in IVDD: independent transcriptomic validation & mechanistic extension
 
 This release accompanies the manuscript **"METRN in Intervertebral Disc Degeneration: Integrated Public Transcriptomic Evidence and Translational Relevance to Adolescent Idiopathic Scoliosis"** (BMC Musculoskeletal Disorders submission, manuscript v10).
 
@@ -36,7 +36,7 @@ Processed results and analysis code are archived in this repository and on Zenod
 
 ## How to cite
 
-> Dong J, Guo J, Zhang P, Wang Y, Yu H, Zhang L, Zhu W, Kong D. METRN in Intervertebral Disc Degeneration: Integrated Public Transcriptomic Evidence and Translational Relevance to Adolescent Idiopathic Scoliosis. *BMC Musculoskeletal Disorders* (submitted). Code & data: https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis (v2.0.0); Zenodo DOI: 10.5281/zenodo.2126196.
+> Dong J, Guo J, Zhang P, Wang Y, Yu H, Zhang L, Zhu W, Kong D. METRN in Intervertebral Disc Degeneration: Integrated Public Transcriptomic Evidence and Translational Relevance to Adolescent Idiopathic Scoliosis. *BMC Musculoskeletal Disorders* (submitted). Code & data: https://github.com/kongdeyu0819-rgb/METRN_IVDD_transcriptomic_analysis (v2.0.1); Zenodo DOI: 10.5281/zenodo.2126196.
 
 ## Notes for maintainers
 
