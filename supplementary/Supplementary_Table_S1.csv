@@ -1,0 +1,12 @@
+cell_type,n_cells,METRN_pct_pos,METRN_mean,METRN_mean_pos,FTX_pct_pos,FTX_mean,PIEZO1_pct_pos,PIEZO1_mean,METRNpos_FTXpos_pct,METRNpos_PIEZO1pos_pct
+AF/NP cells (ER stress / autophagy state),250,13.2,0.168,1.273,5.2,0.056,8.8,0.1,9.1,18.2
+Annulus fibrosus (AF) cells,2081,11.5,0.131,1.138,8.1,0.087,6.0,0.062,11.7,10.0
+Annulus fibrosus (AF) cells (chondrogenic),727,6.9,0.073,1.06,2.5,0.025,6.3,0.065,2.0,6.0
+Annulus fibrosus (AF) cells (hypoxic/inflammatory),1984,8.8,0.102,1.161,3.8,0.039,7.7,0.083,6.9,7.5
+Annulus fibrosus (AF) cells (stress/osteogenic),1377,6.0,0.068,1.12,3.0,0.031,6.4,0.07,3.6,15.7
+Fibrochondrocytes / Regulatory chondrocytes (RegCs),746,41.4,0.669,1.615,9.8,0.102,10.5,0.118,10.7,12.6
+Nucleus pulposus (NP) cells,3632,27.6,0.386,1.4,7.3,0.079,7.9,0.085,9.3,9.1
+Nucleus pulposus (NP) cells (stress/Wnt-inhibitory),1128,13.8,0.155,1.122,6.6,0.073,4.7,0.049,10.9,4.5
+Proliferating regulatory chondrocytes (Proliferating RegCs / RegCs4),205,45.9,0.98,2.138,7.3,0.078,25.9,0.322,11.7,31.9
+Regulatory chondrocytes (RegCs),1048,56.1,1.382,2.463,13.0,0.146,17.2,0.201,15.6,20.2
+unlabeled,823,64.6,1.99,3.079,18.0,0.214,30.7,0.447,19.9,36.5
